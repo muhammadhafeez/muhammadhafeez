@@ -3,9 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/muhammadh130](https://www.upwork.com/freelancers/muhammadh130)
 
-- 💬 Ask me about **api, devops, security, apis**
-
-- 📫 How to reach me **hello.m.hafeez@gmail.com**
+- 💬 Ask me about **API, DevOps, Security, APIs, React, Next, Angular,Laravel**
 
 - ⚡ Fun fact **A calm guy**
 ###
